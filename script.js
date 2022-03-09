@@ -84,22 +84,3 @@ function clear() {
 
 
 
-
-/*
-
-function launchGame(e) {     
-     this.style.backgroundColor = "blue";
-     e.stopPropagation();
-     divs.forEach(div => div.addEventListener('mouseenter', launchGame2));
-}
-
-function launchGame2(e) {     
-    this.style.backgroundColor = "blue";    
-   e.stopPropagation();
-}
-
-function hello2() {
-    divs.forEach(div => div.removeEventListener('mouseenter', launchGame2));
-}
-
-*/
